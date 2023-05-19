@@ -3,10 +3,10 @@
 <p>Evento de intensivão de python realizado do dia 15/05 a 18/05.<br/>
 Cada aula aborda um tema diferente do python, com problemas reais do dia a dia, e com projetos práticos, como:
 <ul>
-  <li><a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula1-150523">Automação de Processos</a></li>
-  <li><a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula2-160523">Análise de Dados</a></li>
-  <li><a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula3-170523">Automação Web(Web Scrapping)</a></li>
-  <li><a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula4-180523">Machine Learning +Data Science</a></li>
+  <li><a href="https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/main/README.md#aula1-150523">Automação de Processos</a></li>
+  <li><a href="https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/main/README.md#aula2-160523">Análise de Dados</a></li>
+  <li><a href="https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/main/README.md#aula3-170523">Automação Web(Web Scrapping)</a></li>
+  <li><a href="https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/main/README.md#aula4-180523">Machine Learning +Data Science</a></li>
 </ul>
 </p>
 
@@ -40,24 +40,24 @@ O programa utiliza a biblioteca pandas do python para fazer a importação da ba
 <h3 align='center'>Resultado</h3>
 
 <div align='center'>
-  <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula2/graf%20(1).png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='49%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/graf%20(1).png'>
   </a>
 
-  <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula2/graf%20(2).png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='49%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/graf%20(2).png'>
   </a>
 
-  <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula2/graf%20(3).png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='49%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/graf%20(3).png'>
   </a>
 
-  <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula2/graf%20(4).png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='49%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/graf%20(4).png'>
   </a>
 
-  <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula2/graf%20(5).png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='49%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/graf%20(5).png'>
   </a>
 </div>
 
@@ -81,13 +81,13 @@ Logo após verifica se o produto está abaixo do valor de compra, colocando um r
 
 <div align='center'>
   <h3>Banco de dados</h3>
-  <a href='https://github.com/M4theus13'>
-    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula3/tabela.png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='60%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/tabela.png'>
   </a>
 
   <h3>Resultado</h3>
-  <a href='https://github.com/M4theus13'>
-    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula3/tabela-atualizada.png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='60%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/tabela-atualizada.png'>
   </a>
 </div>
 
@@ -114,12 +114,12 @@ A primeira IA utiliza o método de Regressão Linear, a segunda IA utiliza o mé
 
 <div align='center'>
   <h3>Banco de dados</h3>
-  <a href='https://github.com/M4theus13'>
-    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/banco-dados.png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='60%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/banco-dados.png'>
   </a>
 
   <h3>Resultado</h3>
-  <a href='https://github.com/M4theus13'>
-    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/tabela.png'>
+  <a href='https://github.com/yurikrieger'>
+    <img width='60%' src='https://github.com/yurikrieger/Intensiv-o-de-python---Hashtag-treinamentos/blob/4ed40ff56857ecbd3e8bfd3866024e2df1c93436/images/tabela%20(1).png'>
   </a>
 </div>
